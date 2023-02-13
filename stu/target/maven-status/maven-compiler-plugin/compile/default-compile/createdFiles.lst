@@ -1,0 +1,4 @@
+com\kgisl\stu\StuApplication.class
+com\kgisl\stu\entity\Student.class
+com\kgisl\stu\repository\StudentRepository.class
+com\kgisl\stu\controller\StudentController.class
